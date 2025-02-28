@@ -119,7 +119,7 @@ If you find this project useful, feel free to ⭐. Your support will be my super
 ## References
 
 - [Hands On Data Science Project: Understand Customers with KMeans Clustering in Python](https://www.youtube.com/watch?v=afPJeQuVeuY)
-- [Visualizing KMeans Clustering with Python](https://www.youtube.com/watch?v=-GoYI746kEY)
+- [Visualizing KMeans Clustering with Python](https://www.youtube.com/watch?v=7s8m2-IZJnU)
 
   ---
 
