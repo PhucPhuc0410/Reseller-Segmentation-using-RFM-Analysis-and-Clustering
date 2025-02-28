@@ -112,6 +112,22 @@ df_non_outliers['Cluster'] = cluster_labels
 
 ![Figure_1](https://github.com/user-attachments/assets/87b25f56-e22d-4142-930a-6ae2c2291f59)
 
+If you find this project useful, feel free to ⭐. Your support will be my super motivation ❤️.
+
+---
+
+## References
+
+- [Hands On Data Science Project: Understand Customers with KMeans Clustering in Python](https://www.youtube.com/watch?v=afPJeQuVeuY)
+- [Visualizing KMeans Clustering with Python](https://www.youtube.com/watch?v=-GoYI746kEY)
+
+  ---
+
+📌 **Author:** Nguyễn Hoàng Gia Phúc  
+
+📧 **Contact:** nguyenhoanggiaphucwork@gmail.com
+
+🔗 **LinkedIn:** [Nguyen Hoang Gia Phuc][(https://www.linkedin.com/in/nguyenhoanggiaphuc)](https://www.youtube.com/watch?v=7s8m2-IZJnU)
 
 
 
